@@ -21,3 +21,4 @@ print(f'    使用可能ホスト数: {ip_range_addr.num_addresses-2}')
 print(f'      ホストIPの範囲: {ip_range_addr[1]}~{ip_range_addr[-2]}')
 
 # 入力されたIPアドレスのClassを判断する
+# Defolt Maskを作成
